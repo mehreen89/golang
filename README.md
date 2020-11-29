@@ -1,2 +1,2 @@
 # golang
-becoming professional 
+becoming professionals.
